@@ -23,9 +23,8 @@ public class UI_controler : MonoBehaviour
         Debug.Log("start");
         parser = JSON_PARSER.instance;
         post_list data = parser.readJSON(F_NAME);
-        foreach (var item in data.post)
-        {
-            Debug.Log(item.title);
-        }
+        title.text = data.post[0].title;
+        contents1.text = data.post[0].contents;
+        contents2.text = data.post[1].contents;
     }
 }

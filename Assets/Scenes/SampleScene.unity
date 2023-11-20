@@ -154,8 +154,8 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 420776102}
-  - {fileID: 631459455}
   - {fileID: 1558452430}
+  - {fileID: 631459455}
   - {fileID: 1520477181}
   - {fileID: 467706811}
   m_Father: {fileID: 356248785}
@@ -641,8 +641,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 131fcc52e1e49a44aac3749ab9538026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  title: {fileID: 0}
+  title: {fileID: 420776103}
   contents1: {fileID: 1456941308}
+  contents2: {fileID: 1423685721}
 --- !u!1 &420776101
 GameObject:
   m_ObjectHideFlags: 0
@@ -700,7 +701,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Casting Board
+  m_text: hello
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1912,6 +1913,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   title: {fileID: 0}
   contents1: {fileID: 0}
+  contents2: {fileID: 0}
 --- !u!1 &1456941304
 GameObject:
   m_ObjectHideFlags: 0
