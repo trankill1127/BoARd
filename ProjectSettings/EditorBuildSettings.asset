@@ -7,8 +7,16 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Samples/ARCore Extensions/1.37.0/Geospatial Sample/Scenes/Geospatial.unity
+    guid: 1ed15e9657253406185e4b2c7c5a4fc4
   m_configObjects:
-    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 66a6b1c2096a0f94fb6fbd355fe16556, type: 2}
-    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 11109b2ba50662f4db3f24d3c936880d, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4e4641b40e222a046b1450aab3b9e973, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 63bf3c3908e8bed45865d76da1f81c1f,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: f6f94bb7c9b96154ba9f764ab2ec043a,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: f4addfdd1105d1243855abdb90171c2f,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2da8b27564c17d549930967376fed602,
+      type: 2}
