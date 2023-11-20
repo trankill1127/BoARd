@@ -21,18 +21,19 @@ public class JSON_PARSER : MonoBehaviour
         }
     }
 
-    public post_data readJSON(string filename)
+    public post_list readJSON(string filename)
     {
-        Debug.Log(filename);
+        
         try
         {
             json_Data = Resources.Load<TextAsset>(filename);
+            Debug.Log(json_Data);
         }
         catch
         {
             Debug.Log("파일이 존재하지 않습니다.");
         }
-        post_data tmp = JsonUtility.FromJson<post_data>(json_Data.text);
+        post_list tmp = JsonUtility.FromJson<post_list>(json_Data.text);
         return tmp;
     }
     private void OnDestroy()
@@ -45,4 +46,8 @@ public class post_data
 {
     public string title;
     public string contents;
+}
+public class post_list
+{
+    public List<post_data> post = new List<post_data>();
 }
