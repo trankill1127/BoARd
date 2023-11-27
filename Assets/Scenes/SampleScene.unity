@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44402185, g: 0.49316472, b: 0.57223153, a: 1}
+  m_IndirectSpecularColor: {r: 0.4465782, g: 0.49641252, b: 0.5748167, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -531,6 +531,7 @@ GameObject:
   - component: {fileID: 757841748}
   - component: {fileID: 757841747}
   - component: {fileID: 757841746}
+  - component: {fileID: 757841750}
   m_Layer: 0
   m_Name: AR Camera
   m_TagString: MainCamera
@@ -648,6 +649,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 630702040}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &757841750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 757841744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4290a95aca73f0c4097f8dda0d3430ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  to: "\uD559\uC0DD\uD68C\uAD00"
 --- !u!1001 &773190229
 PrefabInstance:
   m_ObjectHideFlags: 0
