@@ -4,6 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UIElements;
+using UnityEngine.XR.ARFoundation;
 
 public class GameObjectCreator : MonoBehaviour
 {
@@ -11,7 +12,6 @@ public class GameObjectCreator : MonoBehaviour
     {
         // 새로운 GameObject 생성
         GameObject gameObject = new GameObject();
-
         // ARGeospatialCreatorAnchor 클래스의 인스턴스 생성
         ARGeospatialCreatorAnchor geospatialAnchor = gameObject.AddComponent<ARGeospatialCreatorAnchor>();
 
@@ -41,7 +41,7 @@ public class GameObjectCreator : MonoBehaviour
     void Start()
     {
         // 함수 호출
-        CreateGeospatialAnchor(37.7749, 1, "Test Component Game Object");
+        CreateGeospatialAnchor(37.544873, 127.072423, "Test Component Game Object");
     }
 
     void Update()

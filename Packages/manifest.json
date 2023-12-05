@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.cesium.unity": "file:C:/Users/keinp/Downloads/com.cesium.unity-1.1.0.tgz",
+    "com.cesium.unity": "file:C:/Users/keinp/Downloads/com.cesium.unity-1.2.0.tgz",
     "com.google.ar.core.arfoundation.extensions": "file:C:/Users/keinp/Downloads/arcore-unity-extensions-1.37.0.tgz",
     "com.unity.collab-proxy": "2.2.0",
     "com.unity.ide.rider": "3.0.24",
