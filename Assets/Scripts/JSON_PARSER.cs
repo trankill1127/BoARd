@@ -23,7 +23,6 @@ public class JSON_PARSER : MonoBehaviour
 
     public post_list readJSON(string filename)
     {
-        
         try
         {
             json_Data = Resources.Load<TextAsset>(filename);
@@ -42,12 +41,13 @@ public class JSON_PARSER : MonoBehaviour
     }
 }
 [Serializable]
-public class post_data
+public class location_data
 {
-    public string title;
-    public string contents;
+    public string Name;
+    public float latitude;
+    public float longitude;
 }
 public class post_list
 {
-    public List<post_data> post = new List<post_data>();
+    public List<location_data> post = new List<location_data>();
 }

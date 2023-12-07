@@ -1,20 +1,160 @@
-{   
-    "post" :[
-        {
-            "title" : "Casting Board",
-            "contents" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-            "title" : "University News",
-            "contents" : "The quick brown fox jumps over the lazy dog"
-        },
-        {
-            "title" : "tmp",
-            "contents" : "dafdfad"
-        },
-        {
-            "title" : "Usdfasdfsdafdfafdfniversity News",
-            "contents" : "dafdog"
-        }
-    ]
+{  
+    "VertexDictionary":{
+        "후문":{"latitude":37.552929, "longitude": 127.072469},
+
+        "2": {"latitude":37.552120, "longitude":127.072817},
+        "3":{"latitude": 37.552757, "longitude":127.073613},
+        "4":{"latitude": 37.552642, "longitude":127.073788},
+        "5":{"latitude": 37.552436, "longitude":127.073552},
+        "6":{"latitude": 37.551919, "longitude":127.073466},
+        "7":{"latitude": 37.552182, "longitude":127.073493},
+        "8":{"latitude": 37.552223, "longitude":127.073844},
+        "9":{"latitude": 37.552070, "longitude":127.073654},
+        "10":{"latitude": 37.551944, "longitude":127.073823},
+        "11":{"latitude": 37.551887, "longitude":127.073128},
+        "12":{"latitude": 37.552106, "longitude":127.073995},
+        "13":{"latitude": 37.551784, "longitude":127.073648},
+        "14":{"latitude": 37.551629, "longitude":127.073450},
+        "15":{"latitude": 37.551576, "longitude":127.073910},
+        "16":{"latitude": 37.551439, "longitude":127.073688},
+        "17":{"latitude": 37.551439, "longitude":127.074092},
+        "18":{"latitude": 37.551271, "longitude":127.073904},
+        "19":{"latitude": 37.551205, "longitude":127.073987},
+        "20":{"latitude": 37.551114, "longitude":127.074102},
+        "21":{"latitude": 37.551280, "longitude":127.074302},
+        "22":{"latitude": 37.551400, "longitude":127.074457},
+        "23":{"latitude": 37.551605, "longitude":127.074698},
+        "24":{"latitude": 37.552022, "longitude":127.074646},
+        "25":{"latitude": 37.551152, "longitude":127.075312},
+        "26":{"latitude": 37.550896, "longitude":127.074987},
+        "27":{"latitude": 37.550605, "longitude":127.074601},
+        "28":{"latitude": 37.550845, "longitude":127.073532},
+        "29":{"latitude": 37.551068, "longitude":127.073349},
+        "30":{"latitude": 37.551370, "longitude":127.073768},
+        "31":{"latitude": 37.550305, "longitude":127.072844},
+        "32":{"latitude": 37.549780, "longitude":127.073428},
+        "33":{"latitude": 37.549319, "longitude":127.073471},
+        "34":{"latitude": 37.550303, "longitude":127.073309},
+        "35":{"latitude": 37.550464, "longitude":127.073514},
+        "36":{"latitude": 37.550680, "longitude":127.073725},
+        "37":{"latitude": 37.550271, "longitude":127.074207},
+        "38":{"latitude": 37.550080, "longitude":127.073585},
+        "39":{"latitude": 37.550219, "longitude":127.073791},
+        "40":{"latitude": 37.550042, "longitude":127.074007},
+        "41":{"latitude": 37.549965, "longitude":127.073702},
+        "42":{"latitude": 37.550017, "longitude":127.073814},
+        "43":{"latitude": 37.549796, "longitude":127.074073},
+        "44":{"latitude": 37.549881, "longitude":127.074177},
+        "45":{"latitude": 37.549630, "longitude":127.074110},
+        "46":{"latitude": 37.549619, "longitude":127.073987},
+        "47":{"latitude": 37.549707, "longitude":127.074334},
+        "48":{"latitude": 37.549770, "longitude":127.074299},
+        "49":{"latitude": 37.550154, "longitude":127.074114},
+        "50":{"latitude": 37.54985263704142, "longitude":127.0744738147587},
+        "51":{"latitude": 37.549298, "longitude":127.074113},
+        "쪽문1":{"latitude": 37.549302, "longitude":127.073370},
+        "53":{"latitude": 37.548783, "longitude":127.073330},
+        "54":{"latitude": 37.548481, "longitude":127.073341},
+        "55":{"latitude": 37.548764, "longitude":127.073716},
+        "56":{"latitude": 37.548455, "longitude":127.073703},
+        "57":{"latitude": 37.548457, "longitude":127.074039},
+        "58":{"latitude": 37.548416, "longitude":127.074027},
+        "59":{"latitude": 37.548760, "longitude":127.074068},
+        "쪽문2":{"latitude": 37.548348, "longitude":127.073351},
+        "61":{"latitude": 37.548936, "longitude":127.074083},
+        "62":{"latitude": 37.549315, "longitude":127.074406},
+        "63":{"latitude": 37.549853, "longitude":127.074876},
+        "64":{"latitude": 37.54977576945796, "longitude":127.07492073907261},
+        "65":{"latitude": 37.549695, "longitude":127.074672},
+        "66":{"latitude": 37.549661, "longitude":127.074639},
+        "67":{"latitude": 37.54981623350918, "longitude":127.07504808999593},
+        "68":{"latitude": 37.549571, "longitude":127.075005},
+        "69":{"latitude": 37.549535, "longitude":127.074966},
+        "70":{"latitude": 37.549193, "longitude":127.074773},
+        "71":{"latitude": 37.548886, "longitude":127.074644},
+        "정문":{"latitude": 37.549117918851856, "longitude":127.07511245901617},
+        "73":{"latitude": 37.55028894791896, "longitude":127.07553376118724},
+        "쪽문3":{"latitude": 37.55020093930908, "longitude":127.07578546538973},
+        "75":{"latitude": 37.55038784363281, "longitude":127.07586769975154},
+        "76":{"latitude": 37.55050283158843, "longitude":127.07569523837321},
+        "77":{"latitude": 37.551071, "longitude":127.076302},
+        "78":{"latitude": 37.551202, "longitude":127.075918},
+        "79":{"latitude": 37.55100289974998, "longitude":127.07567311077963},
+        "80":{"latitude": 37.5507916963534, "longitude":127.07483971041053},
+        "81":{"latitude": 37.55073534364052, "longitude":127.07490331005661},
+        "82":{"latitude": 37.55103694754837, "longitude":127.07526574521138},
+        "83":{"latitude": 37.551027, "longitude":127.075285},
+        "84":{"latitude": 37.55048734443272, "longitude":127.07525670510664},
+        "85":{"latitude": 37.550834 , "longitude":27.075442},
+        "86":{"latitude": 37.548890, "longitude":127.075007},
+        "87":{"latitude": 37.552038, "longitude":127.073313},
+        "88":{"latitude": 37.550889, "longitude":127.073574},
+        "89":{"latitude": 37.552378, "longitude":127.074155},
+        "90":{"latitude": 37.54920815341758, "longitude":127.07490036725218},
+        "91":{"latitude": 37.5500237390933, "longitude":127.07461261228808},
+        "92":{"latitude": 37.55138398553519, "longitude":127.0750241993248},
+        "93":{"latitude": 37.548769849748304, "longitude":127.07341466117833},
+        "94":{"latitude": 37.55234279882951, "longitude":127.07262032683926},
+
+        "대양AI센터":{"latitude": 37.55067866466778, "longitude":127.07547898598591},
+        "대양AI센터1":{"latitude": 37.550566128501785, "longitude":127.07534024421014},
+        "대양AI센터2":{"latitude": 37.55049833294774, "longitude":127.07568533181187},
+        "대양AI센터3":{"latitude": 37.55077093184624, "longitude":127.07561204938861},
+        "대양AI센터4":{"latitude": 37.550845479255656, "longitude":127.07527545473171},
+
+        "모차르트홀":{"latitude": 37.54837299187981, "longitude":127.07408476058303},
+
+        "대양홀":{"latitude": 37.54888404833184, "longitude":127.07449831283674},
+
+        "집현관":{"latitude": 37.54908958952705, "longitude":127.07359886582155},
+        "집현관1":{"latitude": 37.5492742958514, "longitude":127.07359621833467},
+        "집현관2":{"latitude": 37.549010520629885, "longitude":127.07396939887298},
+        "집현관3":{"latitude": 37.54881482570873, "longitude":127.07353352676115},
+
+        "학생회관":{"latitude": 37.549602156553725, "longitude":127.07518933097482},
+        "학생회관1":{"latitude": 37.549566222813525, "longitude":127.07502237732841},
+        "학생회관2":{"latitude": 37.54930269713431, "longitude":127.07499665129299},
+
+        "세종관":{"latitude": 37.549969698891054, "longitude":127.07458143803036},
+        "세종관1":{"latitude": 37.54991567832413, "longitude":127.07451914347061},
+        "세종관2":{"latitude": 37.550023737305565, "longitude":127.07461544141462},
+
+        "군자관":{"latitude": 37.54959176160512, "longitude":127.07381437210093},
+        "군자관2":{"latitude": 37.54959614262905, "longitude":127.07401241427353},
+        "군자관1":{"latitude": 37.54981256968448, "longitude":127.07371274151824},
+
+        "광개토관":{"latitude": 37.55019129501604, "longitude":127.07322084505508},
+        "광개토관1":{"latitude": 37.55058758638846, "longitude":127.07345888129747},
+        "광개토관2":{"latitude": 37.55025430516801, "longitude":127.07331709735423},
+
+        "이당관":{"latitude": 37.55035822104793, "longitude":127.07283058689191},
+
+        "진관홀":{"latitude": 37.55095022208627, "longitude":127.0734846996733},
+
+        "용덕관":{"latitude": 37.55134223694715, "longitude":127.07335494235691},
+        "용덕관1":{"latitude": 37.55119799993971, "longitude":127.07347928459517},
+
+        "애지헌":{"latitude": 37.550760781356026, "longitude":127.07385513314536},
+
+        "영실관":{"latitude": 37.55232431714493, "longitude":127.07336722174925},
+        "충무관":{"latitude": 37.552276587373726, "longitude":127.07405184462753},
+        "충무관1":{"latitude": 37.55219780330275, "longitude":127.07396689036213},
+        "충무관2":{"latitude": 37.55235987281623, "longitude":127.07414246196399},
+
+        "다산관":{"latitude": 37.55255580952808, "longitude":127.07419075287422},
+        "다산관1":{"latitude": 37.552271765478096, "longitude":127.07455543982492},
+        "다산관2":{"latitude": 37.55247248682488, "longitude":127.07415954884834},
+        "다산관3":{"latitude": 37.55275878921066, "longitude":127.07378354471737},
+
+        "율곡관":{"latitude": 37.551943267989934, "longitude":127.0739722972141},
+
+        "우정당":{"latitude": 37.55186847615874, "longitude":127.0747021563938},
+        "우정당1":{"latitude": 37.55195189353698, "longitude":127.07458341320121},
+        "우정당2":{"latitude": 37.55178280795931, "longitude":127.07481806787685},
+
+        "학술정보원":{"latitude": 37.551526405765, "longitude":127.07421236595302},
+
+        "박물관":{"latitude": 37.551469484927225, "longitude":127.0751742317245}
+    }
+    
 }

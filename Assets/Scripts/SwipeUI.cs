@@ -14,8 +14,10 @@ public class SwipeUI : MonoBehaviour
 	private	float		swipeDistance = 50.0f;		// 페이지가 Swipe되기 위해 움직여야 하는 최소 거리
 
 	private	float[]		scrollPageValues;			// 각 페이지의 위치 값 [0.0 - 1.0]
-	private	float		valueDistance = 0;			// 각 페이지 사이의 거리
-	private	int			currentPage = 0;			// 현재 페이지
+	private	float		valueDistance = 0;          // 각 페이지 사이의 거리
+	[SerializeField]
+	private	int			currentPage = 0;            // 현재 페이지
+	[SerializeField]
 	private	int			maxPage = 0;				// 최대 페이지
 	private	float		startTouchX;				// 터치 시작 위치
 	private	float		endTouchX;					// 터치 종료 위치
@@ -57,7 +59,7 @@ public class SwipeUI : MonoBehaviour
 		UpdateInput();
 
 		// 아래에 배치된 페이지 버튼 제어
-		UpdateCircleContent();
+		//UpdateCircleContent();
 	}
 
 	private void UpdateInput()
@@ -104,6 +106,7 @@ public class SwipeUI : MonoBehaviour
 
 	private void UpdateSwipe()
 	{
+		Debug.Log("HELL");
 		// 너무 작은 거리를 움직였을 때는 Swipe X
 		if ( Mathf.Abs(startTouchX-endTouchX) < swipeDistance )
 		{
