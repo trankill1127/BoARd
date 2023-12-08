@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/Samples/ARCore Extensions/1.37.0/Geospatial Sample/Prefabs/GeospatialTerrainMarker.prefab.meta
 guid: a46bc1cf69cc345ba81f34525c7e1b09
 PrefabImporter:
+========
+guid: 1b8d251f9af63b746bf2f7ffe00ebb9b
+DefaultImporter:
+>>>>>>>> Stashed changes:Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
   externalObjects: {}
   userData: 
   assetBundleName: 

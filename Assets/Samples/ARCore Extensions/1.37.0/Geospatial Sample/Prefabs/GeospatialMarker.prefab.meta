@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/Samples/ARCore Extensions/1.37.0/Geospatial Sample/Prefabs/GeospatialMarker.prefab.meta
 guid: f09a13e3d47394ab588884ffd124d732
 PrefabImporter:
+========
+guid: 1ed15e9657253406185e4b2c7c5a4fc4
+DefaultImporter:
+>>>>>>>> Stashed changes:Assets/Samples/ARCore Extensions/1.37.0/Geospatial Sample/Scenes/Geospatial.unity.meta
   externalObjects: {}
   userData: 
   assetBundleName: 

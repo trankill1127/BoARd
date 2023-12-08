@@ -1,5 +1,9 @@
 {
   "dependencies": {
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
     "com.cesium.unity": "file:C:/Users/keinp/Downloads/com.cesium.unity-1.1.0.tgz",
     "com.google.ar.core.arfoundation.extensions": "file:C:/Users/keinp/Downloads/arcore-unity-extensions-1.37.0.tgz",
     "com.unity.collab-proxy": "2.2.0",
@@ -8,11 +12,25 @@
     "com.unity.ide.vscode": "1.2.5",
     "com.unity.render-pipelines.universal": "14.0.8",
     "com.unity.test-framework": "1.1.33",
+<<<<<<< Updated upstream
+=======
+=======
+    "com.unity.collab-proxy": "2.0.7",
+    "com.unity.feature.development": "1.0.1",
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
     "com.unity.textmeshpro": "3.0.6",
     "com.unity.timeline": "1.7.5",
     "com.unity.ugui": "1.0.0",
     "com.unity.visualscripting": "1.9.0",
     "com.unity.xr.arcore": "5.0.7",
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+=======
+    "com.unity.xr.arfoundation": "5.0.7",
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",

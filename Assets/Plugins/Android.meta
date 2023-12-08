@@ -1,5 +1,17 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Assets/Plugins/Android.meta
 guid: c026864802f96534c8e9a5df67e094c2
+========
+guid: 4536f022d6d111c468fcf53f471493d4
+>>>>>>>> Stashed changes:Assets/Samples/ARCore Extensions/1.37.0.meta
+=======
+<<<<<<< Updated upstream
+guid: c026864802f96534c8e9a5df67e094c2
+=======
+guid: 403100d3ff15e4843948974cb9bf1bd1
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

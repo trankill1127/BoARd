@@ -1,5 +1,14 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/ExtensionsAssets.meta
 guid: 2ca82f745b159e34cab545d643041f48
+========
+<<<<<<< Updated upstream
+guid: 0e17981cf9d8cc34599a5e89fe88b423
+>>>>>>>> Stashed changes:Assets/Samples/ARCore Extensions.meta
+=======
+guid: e811c7e1c1e9a4b50b237772d317959f
+>>>>>>>> Stashed changes:Library/PackageCache/com.unity.ide.visualstudio@2.0.18/Editor/Plugins/AppleEventIntegration.bundle/Contents/MacOS.meta
+>>>>>>> Stashed changes
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

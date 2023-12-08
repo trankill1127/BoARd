@@ -1,5 +1,14 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/CesiumSettings.meta
 guid: d008154e88f2f5f42908e385cd8401af
+========
+<<<<<<< Updated upstream
+guid: df31df3e59111be40bd65070886d5a5e
+>>>>>>>> Stashed changes:Assets/Samples.meta
+=======
+guid: 543eb5eeeb1d5424ca8876b93fad5326
+>>>>>>>> Stashed changes:Library/PackageCache/com.unity.ide.visualstudio@2.0.18/Editor/Plugins/AppleEventIntegration.bundle/Contents.meta
+>>>>>>> Stashed changes
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

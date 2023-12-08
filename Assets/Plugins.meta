@@ -1,5 +1,17 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Assets/Plugins.meta
 guid: bb1be5adafe7efd47a50b2e9b71fa823
+========
+guid: f5ef61ff803f14e47b91501fb8a8dddb
+>>>>>>>> Stashed changes:Assets/Samples/ARCore Extensions/1.37.0/Geospatial Sample.meta
+=======
+<<<<<<< Updated upstream
+guid: bb1be5adafe7efd47a50b2e9b71fa823
+=======
+guid: c2523c59454ad1347bc3719a96b6d384
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

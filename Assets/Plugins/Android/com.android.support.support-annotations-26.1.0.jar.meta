@@ -1,7 +1,19 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/Plugins/Android/com.android.support.support-annotations-26.1.0.jar.meta
 guid: 5eb9fc652157ab34198a737f1f908f57
+<<<<<<< Updated upstream
+========
+guid: a88f8bd2b73f80f4a9510c7bd7246643
+>>>>>>>> Stashed changes:Assets/Plugins/Android/com.android.support.support-compat-26.1.0.aar.meta
 labels:
 - gpsr
+=======
+labels:
+- gpsr
+========
+guid: bd091fc8013c942f586c1672b8ee2b27
+>>>>>>>> Stashed changes:Library/PackageCache/com.unity.xr.arcore@5.0.7/Runtime/Android/unityandroidpermissions.aar.meta
+>>>>>>> Stashed changes
 PluginImporter:
   externalObjects: {}
   serializedVersion: 2
